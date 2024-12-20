@@ -1,7 +1,6 @@
 # DO NOT EDIT! This file will be overwritten by nwg-look.
 # Any customization should be done in ~/.gtkrc-2.0.mine instead.
 
-include "/home/satoshi/.gtkrc-2.0.mine"
 gtk-theme-name="Orchis-Dark"
 gtk-icon-theme-name="Colloid-Catppuccin"
 gtk-font-name="Cantarell 11"

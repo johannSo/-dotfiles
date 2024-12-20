@@ -1,0 +1,5 @@
+/* Blur background */
+TerminalWindow {
+    background-color: rgba(0, 0, 0, 0.5); /* adjust transparency to your liking */
+    backdrop-filter: blur(10px); /* adjust blur radius to your liking */
+}
